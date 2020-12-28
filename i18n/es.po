@@ -42,7 +42,7 @@ msgstr "Búsqueda..."
 #. module: website_sale_product_brand
 #: model:website.menu,name:website_sale_product_brand.menu_website_sale_brand
 msgid "Shop by Brand"
-msgstr "Tienda por marcas"
+msgstr "Marcas"
 
 #~ msgid "Website"
 #~ msgstr "Sitio web"
